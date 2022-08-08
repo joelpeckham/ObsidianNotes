@@ -7,8 +7,12 @@
         "id": "e429a7a954585b35",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "A note.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A note.md"
+              }
             }
           }
         ]
@@ -120,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d1ea85afa0adc0d",
+  "active": "e429a7a954585b35",
   "lastOpenFiles": [
     "README.md"
   ]
